@@ -17,7 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/Lwd7O41qMp.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I used iphone13 pro simulator not 8 in the tutorial video, so I just could not arrange the two collection items have the right margins with each other. I searched on google to resolve to set the right CGSize. 
 ---
 
 ## Flix Part 1
